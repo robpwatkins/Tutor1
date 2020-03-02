@@ -1,5 +1,17 @@
 html, body {
   width: 100%;
   height: 100%;
-  background: lightblue;
+  background: white;
+}
+
+table {
+  height: 20%;
+  width: 75%;
+  margin: 75px auto;
+  border: 1px solid black;
+}
+
+th {
+  width: 33%;
+  border: 1px solid black;
 }
